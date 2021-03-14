@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Proyecto React 100 days of code challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillemrock/Proyecto-React.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guillemrock/Proyecto-React/issues"
+  },
+  "homepage": "https://github.com/guillemrock/Proyecto-React#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  }
+}
